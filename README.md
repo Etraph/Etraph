@@ -1,6 +1,5 @@
 # Ethan Raphael
-Welcome to my GitHub. I am corrently a student at **Ecole Centrale de Marseille** and **University of Amsterdam**, pursuiing my gap year with a focus on mathematical finance, quantitative research and machine learning. My projects explore applied financial mathematics and their market reality, as well as their the intersection between machine learning and quantitative trading.
-### Focus area
+Welcome to my GitHub. I am currently a student at **Ecole Centrale de Marseille** and **University of Amsterdam**, pursuiing my gap year with a focus on mathematical finance, quantitative research and machine learning. My projects explore applied financial mathematics and their market reality, as well as their the intersection between machine learning and quantitative trading.
 
 ---
 
@@ -75,7 +74,7 @@ Currently seeking a **6-month internship starting August or September 2025** in:
 - [LinkedIn:](https://www.linkedin.com/in/ethanraphael)
 - Currently based in **Amsterdam**, open to relocation (France, Germany, Switzerland, Austria, Italy, Portugal, UK)
 
-Feel free to explore my repositories — feedback, contributions, and collaborations are always welcome.
+Feel free to explore my repositories - feedback, contributions, and collaborations are always welcome.
 ---
 
 
