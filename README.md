@@ -46,8 +46,8 @@ Welcome to my GitHub. I am corrently a student at **Ecole Centrale de Marseille*
 
 ---
 
-## 🛠️ Technical Stack
-|---------------------|---------------------------------------------------|
+## Technical Stack
+
 | Category            | Tools & Libraries                                 |
 |---------------------|---------------------------------------------------|
 | **Languages**       | Python (main), SQL, R                             |
@@ -56,7 +56,7 @@ Welcome to my GitHub. I am corrently a student at **Ecole Centrale de Marseille*
 | **GUI & Reports**   | CustomTkinter, SQLite, FPDF                       |
 | **Web & App**       | Streamlit                                         |
 | **Versioning**      | Git, GitHub                                       |
-|---------------------|---------------------------------------------------|
+
 ---
 
 ## Career goals
@@ -73,7 +73,7 @@ Currently seeking a **6-month internship starting August or September 2025** in:
 
 - [Email:](mailto:ethan.raphael@centrale-med.com)
 - [LinkedIn:](https://www.linkedin.com/in/ethanraphael)
-- 🌍 Currently based in **Amsterdam**, open to relocation (France, Germany, Switzerland, Austria, Italy, Portugal, UK)
+- Currently based in **Amsterdam**, open to relocation (France, Germany, Switzerland, Austria, Italy, Portugal, UK)
 
 Feel free to explore my repositories — feedback, contributions, and collaborations are always welcome.
 ---
