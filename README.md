@@ -1,11 +1,11 @@
 # Ethan Raphael
-Welcome to my GitHub. I am currently a student at **Ecole Centrale de Marseille** and **University of Amsterdam**, pursuiing my gap year with a focus on mathematical finance, quantitative research and machine learning. My projects explore applied financial mathematics and their market reality, as well as their the intersection between machine learning and quantitative trading.
+Welcome to my GitHub. I am currently a student at **Ecole Centrale de Marseille** and **University of Amsterdam**, pursuiing my gap year with a focus on mathematical and computational finance, quantitative research and machine learning. My projects explore applied financial mathematics and their market reality, as well as their the intersection between machine learning, quantitative trading and risk management.
 
 ---
 
 ## Areas of Interest
-- **Quantitative Finance & Derivatives Trading**  
-  Pricing and hedging strategies using Black-Scholes, Heston, and CIR models. Calibration, volatility surface modeling, and portfolio risk analysis.
+- **Quantitative Finance, Derivatives Trading, risk modelling**  
+  Pricing and hedging strategies using Black-Scholes, Heston, and CIR models. Calibration, volatility surface modeling, and portfolio risk analysis (credit and market risk).
 
 - **Energy Markets & Forecasting**  
   Seasonal time series modeling (ARIMA, Prophet) and dynamic pricing techniques for commodities like gas and power. Interest in power purchase agreements, structured products, and volatility.
@@ -31,6 +31,7 @@ Welcome to my GitHub. I am currently a student at **Ecole Centrale de Marseille*
 - Monte Carlo pricing engine with Newton-Raphson implied volatility solver
 - Simulation of volatility surfaces using FFT and log-return skewness
 - Streamlit app to visualize Greeks and test strategies in real time
+- Exploratory calculation of VaR
 
 ### Market Forecasting & Portfolio Signals
 > Tools to analyze market regimes and strategy performance under real conditions
@@ -61,10 +62,11 @@ Welcome to my GitHub. I am currently a student at **Ecole Centrale de Marseille*
 ## Career goals
 
 Currently seeking a **6-month internship starting August or September 2025** in:
+- Risk Analytics (market, credit, operational)
+- Energy Markets & Structured Products
 - Quantitative Research / Trading
 - Portfolio Management (rather sell-side)
-- Energy Markets & Structured Products
-- Risk Analytics (market, credit, operational)
+
 
 ---
 
