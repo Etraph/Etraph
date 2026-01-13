@@ -1,5 +1,5 @@
 # Ethan Raphael
-Welcome to my GitHub. I am currently a student at **Ecole Centrale de Marseille** and **University of Amsterdam**, pursuiing my gap year with a focus on mathematical and computational finance, quantitative research and machine learning. My projects explore applied financial mathematics and their market reality, as well as their the intersection between machine learning, quantitative trading and risk management.
+Welcome to my GitHub. I am currently student at **Ecole Centrale de Marseille**, formerly at the **University of Amsterdam**, pursuing my gap year with a focus on mathematical and computational finance, quantitative research and machine learning. For the next few months, I will be honing my Python dev skills through an internship at the Natixis CIB Risk Framework department in Paris. My projects explore applied financial mathematics and their market reality, as well as their the intersection between machine learning, quantitative trading and risk management.
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to my GitHub. I am currently a student at **Ecole Centrale de Marseille*
 
 ---
 
-## Projects soon to be uploaded on this GitHub
+## Projects
 
 ### EEG Diagnostic App (Medical AI, Full-Stack Python)
 > Real-time deep learning application for epilepsy detection using EEG signals
@@ -74,7 +74,7 @@ Currently seeking a **6-month internship starting August or September 2025** in:
 
 - [Email:](mailto:ethan.raphael@centrale-med.com)
 - [LinkedIn:](https://www.linkedin.com/in/ethanraphael)
-- Currently based in **Amsterdam**, open to relocation (France, Germany, Switzerland, Austria, Italy, Portugal, UK)
+- Currently based in **Paris**, open to relocation (France, Germany, Switzerland, Austria, Italy, Portugal, UK)
 
 Feel free to explore my repositories - feedback, contributions, and collaborations are always welcome.
 ---
